@@ -1,5 +1,5 @@
 # articles
-Articles that I wrote.
+Articles that I published.
 
 //znd0x
 
